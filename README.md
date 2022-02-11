@@ -3,7 +3,7 @@
 [![linkedin badge](https://img.shields.io/badge/Hisham-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/hisham-m-2874101bb/)
 [![Gmail Badge](https://img.shields.io/badge/hisham02x@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:hisham02x@gmail.com)
 
-I'm a 2nd year university student currently pursuing B.E. in Computer Science at <b>BITS Pilani</b>, Dubai Campus. I'm interested in Python programming, AI and Machine Learning.
+I'm a 2nd year university student currently pursuing B.E. in Computer Science at <b>BITS Pilani</b>, Dubai Campus. I'm interested in Python programming and Machine Learning.
 
 Member at <b>ACM</b> BITS Pilani Dubai.
 
