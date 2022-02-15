@@ -11,7 +11,7 @@ Member at <b>ACM</b> BITS Pilani Dubai.
 
 <h3 align="left">Languages and Tools: 📄🛠</h3>
 
-<p align="left"> <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.ic<img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></p>
+<p align="left"> <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/000000/pycharm.png"/><img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/000000/discord-logo.png"/></p>
 <h3 align="left">Projects:</h3>
 
 - [base64 Discord bot](https://github.com/hisham02x/base64-bot) (written in Python using the [discord.py Rewrite](https://discordpy.readthedocs.io/en/rewrite/) library)
