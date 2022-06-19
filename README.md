@@ -7,7 +7,7 @@ I'm a 2nd year university student currently pursuing B. E. in Computer Science a
 
 Member at <b>ACM</b> BITS Pilani Dubai.
 
-- 🌱 I’m currently learning Python, HTML, CSS (Bootstrap, Tailwind CSS), JavaScript and SQL (MySQL).
+- 🌱 I’m currently learning Flutter.
 
 <h3 align="left">Languages and Tools: 📄🛠</h3>
 
