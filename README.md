@@ -5,7 +5,7 @@
 
 I'm a 3rd year university student currently pursuing B. E. in Computer Science at <b>BITS Pilani</b>, Dubai Campus. I'm interested in Python programming, web/app development and Machine Learning.
 
-- 🌱 I’m currently learning Dart and Flutter.
+- 🌱 I’m currently learning full stack web development.
 
 <h3 align="left">Languages and Tools: 📄🛠</h3>
 
